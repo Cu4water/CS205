@@ -1,0 +1,3 @@
+/mnt/d/college/C++/lab04/day_info/CMakeFiles/main.dir
+/mnt/d/college/C++/lab04/day_info/CMakeFiles/edit_cache.dir
+/mnt/d/college/C++/lab04/day_info/CMakeFiles/rebuild_cache.dir

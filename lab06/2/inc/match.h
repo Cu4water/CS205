@@ -1,0 +1,1 @@
+char *match(char *s,char ch);//find ch in s?

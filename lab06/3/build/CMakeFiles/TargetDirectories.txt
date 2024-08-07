@@ -1,0 +1,3 @@
+/mnt/d/college/C++/lab06/3/build/CMakeFiles/main.dir
+/mnt/d/college/C++/lab06/3/build/CMakeFiles/edit_cache.dir
+/mnt/d/college/C++/lab06/3/build/CMakeFiles/rebuild_cache.dir

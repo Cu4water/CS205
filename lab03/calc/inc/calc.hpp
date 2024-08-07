@@ -1,0 +1,1 @@
+int calc(char opt,int a,int b);

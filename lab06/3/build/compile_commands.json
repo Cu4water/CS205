@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/d/college/C++/lab06/3/build",
+  "command": "/usr/bin/g++  -I/mnt/d/college/C++/lab06/3/./inc -g -o CMakeFiles/main.dir/src/main.o -c /mnt/d/college/C++/lab06/3/src/main.cpp",
+  "file": "/mnt/d/college/C++/lab06/3/src/main.cpp"
+},
+{
+  "directory": "/mnt/d/college/C++/lab06/3/build",
+  "command": "/usr/bin/g++  -I/mnt/d/college/C++/lab06/3/./inc -g -o CMakeFiles/main.dir/src/point.o -c /mnt/d/college/C++/lab06/3/src/point.cpp",
+  "file": "/mnt/d/college/C++/lab06/3/src/point.cpp"
+}
+]
